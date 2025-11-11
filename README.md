@@ -1,5 +1,5 @@
 # PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
-Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
+## Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
 ## Name: JEGATHEESWARI R
 ## Reg No: 212223230092
 # CUDA Grayscale Conversion
